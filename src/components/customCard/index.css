@@ -1,0 +1,42 @@
+.card {
+  width: 30%;
+  border-radius: 10px;
+  box-shadow: 0.5px 3px 10px 0px rgba(119, 119, 119, 0.1);
+  margin: 10px;
+}
+
+.greenBg {
+  box-shadow: none;
+  text-transform: none;
+  background-color: #ddfdf4;
+  justify-content: center;
+  display: flex;
+  font-size: 13px;
+  align-items: center;
+  border: transparent;
+  color: #01d195;
+}
+
+.goldBg {
+  box-shadow: none;
+  text-transform: none;
+  background-color: #fff2c6;
+  justify-content: center;
+  display: flex;
+  font-size: 13px;
+  align-items: center;
+  border: transparent;
+  color: #a78a29;
+}
+
+.redBg {
+  box-shadow: none;
+  text-transform: none;
+  background-color: #ffd8d8;
+  justify-content: center;
+  display: flex;
+  font-size: 13px;
+  align-items: center;
+  border: transparent;
+  color: #db2828;
+}
